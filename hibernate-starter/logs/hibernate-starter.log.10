@@ -1,0 +1,6 @@
+[2024-01-26 14:39:03,579] TRACE [org.hibernate.resource.jdbc.internal.AbstractLogicalConnectionImplementor: 48] LogicalConnection#afterStatement
+[2024-01-26 14:39:03,580] TRACE [org.hibernate.orm.results.loading: 85] StandardRowReader#readRow
+[2024-01-26 14:39:03,581] TRACE [org.hibernate.orm.results.loading.entity: 281] (o.h.s.r.g.e.i.EntityResultInitializer) Beginning Initializer#resolveKey process for entity : com.bkalika.entity.User
+[2024-01-26 14:39:03,581] DEBUG [org.hibernate.orm.results.loading.entity: 304] (EntityResultInitializer) Hydrated EntityKey (com.bkalika.entity.User): pilip4@mail.com
+[2024-01-26 14:39:03,582] TRACE [org.hibernate.orm.results.loading.entity: 501] (o.h.s.r.g.e.i.EntityResultInitializer) Beginning Initializer#resolveInstance process for entity (com.bkalika.entity.User) : pilip4@mail.com
+[2024-01-26 14:39:03,583] DEBUG [org.hibernate.orm.results.loading.entity: 693] (EntityResultInitializer) Created new entity instance [com.bkalika.entity.User#pilip4@mail.com] : 169251264
